@@ -1,8 +1,10 @@
 # Complex Billing System  
 
 A robust **Java-based utility billing management system** that handles multiple utilities (**electricity, water, gas, internet, and phone services**) using **file handling** and **file-based data persistence**. Built with a **procedural programming approach**, this system efficiently manages billing operations through structured functions, ensuring **comprehensive billing management** and **detailed reporting capabilities**.
-  
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5ee1d7de-f068-40bc-9f5a-90550184c874" alt="cbs GIF">
+</p>
 
 
 ## 🚀 Features  
